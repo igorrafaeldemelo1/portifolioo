@@ -1,0 +1,73 @@
+
+
+.box-01 {
+    position: relative;
+    animation: boxx 2s;
+
+}
+
+@keyframes boxx {
+    from {
+        left: -1400;
+    }
+
+    to {
+        left: 0px;
+    }
+}
+
+.box-02 {
+    position: relative;
+    animation: boxx 3s;
+
+}
+
+.box-03 {
+    position: relative;
+    animation: boxx 3s;
+
+}
+
+
+.box-04 {
+    position: relative;
+    animation: boxx 3s;
+
+}
+
+.box-05 {
+    position: relative;
+    animation: box-01 3s;
+
+}
+
+@keyframes box-01 {
+    from {
+        left: -800;
+    }
+
+    to {
+        left: 0px;
+    }
+}
+
+.box-07 {
+    position: relative;
+    animation: box-02 2s;
+
+}
+
+@keyframes box-02 {
+    from {
+        right: -800;
+    }
+
+    to {
+        right: 0px;
+    }
+}
+
+@font-face {
+    font-family: "assinatura";
+    src: url(font/Authentic-Signature.woff);
+}

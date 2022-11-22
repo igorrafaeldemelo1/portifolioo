@@ -71,3 +71,15 @@
     font-family: "assinatura";
     src: url(font/Authentic-Signature.woff);
 }
+
+.box-img:hover{
+    transform: scale(1.2);
+}
+
+.projeto-01{
+    display: none;
+}
+
+.close:hover{
+    color: aqua;
+}

@@ -5,6 +5,10 @@
     animation: boxx 2s;
 
 }
+.img{
+    width: 100%;
+    background-size: cover;
+}
 
 @keyframes boxx {
     from {

@@ -22,3 +22,27 @@ function close03(){
     let close = document.querySelector('.projeto-03')
     close.style.display = 'none';
 }
+function projeto04() {
+    let modal = document.querySelector('.projeto-04')
+    modal.style.display = 'block';
+}
+function close04(){
+    let close = document.querySelector('.projeto-04')
+    close.style.display = 'none';
+}
+function projeto05() {
+    let modal = document.querySelector('.projeto-05')
+    modal.style.display = 'block';
+}
+function close05(){
+    let close = document.querySelector('.projeto-05')
+    close.style.display = 'none';
+}
+function projeto06() {
+    let modal = document.querySelector('.projeto-06')
+    modal.style.display = 'block';
+}
+function close06(){
+    let close = document.querySelector('.projeto-06')
+    close.style.display = 'none';
+}
